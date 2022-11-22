@@ -1,2 +1,11 @@
+# Mac OSX
 .DS_Store
+
+# logging files
+*.log
+
+# py3
 *.pyc
+.ipynb_checkpoints/
+__pycache__
+
